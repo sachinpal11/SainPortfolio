@@ -42,9 +42,9 @@ export default function AboutMe() {
           <h2 className="text-2xl text-sky-700 font-bold">My Skills</h2>
           <div className="flex flex-wrap gap-2">
             {skills.map((skill, index) => (
-              <li key={index} className="px-4 py-2 list-none bg-neutral-200 rounded-md text-sm font-medium">
+              <span key={index} className="px-4 py-2 list-none bg-neutral-200 rounded-md text-sm font-medium">
                 {skill}
-              </li>
+              </span>
             ))}
           </div>
         </div>

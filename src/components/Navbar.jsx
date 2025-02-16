@@ -16,7 +16,7 @@ function Navbar() {
               <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#home">Home</a></li>
               <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#about">About</a></li>
               <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#projects">Projects</a></li>
-              <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#contact">Contact</a></li>
+              <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="https://api.whatsapp.com/send/?phone=7210397258&text&type=phone_number&app_absent=0">Contact</a></li>
             </ul>
           </div>
           <div className="md:hidden">
@@ -33,7 +33,7 @@ function Navbar() {
           <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#home">Home</a></li>
           <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#about">About</a></li>
           <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#projects">Projects</a></li>
-          <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="#contact">Contact</a></li>
+          <li className="text-sky-700 cursor-pointer hover:text-sky-500"><a href="https://api.whatsapp.com/send/?phone=7210397258&text&type=phone_number&app_absent=0">Contact</a></li>
         </ul>
       </div>
     </div>
