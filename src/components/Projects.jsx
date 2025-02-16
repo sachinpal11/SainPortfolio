@@ -2,12 +2,12 @@ import React from 'react'
 import SectionHead from './SectionHead'
 import Button from './Button'
 import ProjectCards from './ProjectCards'
-
+import Sample1 from '../assets/images/sample1.webp'
 function Projects() {
   const ProjectData = [
     {
       title: "Sain Portfolio",
-      src: "src/assets/images/sample1.png",
+      src: Sample1,
       alt: "This image contains sain Portfolio",
       paragragh: "Sain Porfolio is a sample Website project which is created with HTML, Tailwind CSS , CSS and Javacript",
       link: "https://lucky-banoffee-4e4a8c.netlify.app/"

@@ -12,7 +12,7 @@ function Footer() {
             A.K.A Sachin A Result-Oriented Web Developer building and managing Websites and Web Applications that leads to the success of the overall product
           </p>
         </div>
-        <div className='w-[50%] '>
+        <div className='w-[50%] flex sm:justify-end justify-center mb-10 sm:mb-0'>
           <span className=' text-white animation-1 gap-4 text-2xl justify-end flex'>
             <RiInstagramFill className='hover:text-sky-400 animation-1' />
             <FaLinkedin className='hover:text-sky-400 animation-1' />

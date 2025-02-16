@@ -16,7 +16,7 @@ function ProjectCards({ title, src, paragraph, alt, link }) {
         </div>
 
         <div className="space-y-6">
-          <h2 className="text-4xl text-sky-600 font-bold tracking-tight">{title}</h2>
+          <h2 className="text-4xl text-sky-700 font-bold tracking-tight">{title}</h2>
 
           <p className="text-muted-foreground text-neutral-600 text-lg">
             {paragraph}
