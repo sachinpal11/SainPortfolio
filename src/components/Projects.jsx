@@ -18,7 +18,7 @@ function Projects() {
       src: Sample2,
       alt: "This image contains Dp Sports World",
       paragragh: "DP Sports World is a sports academy sample Website project which is created with HTML, Tailwind CSS , CSS and Javacript.",
-      link: "https://lucky-banoffee-4e4a8c.netlify.app/"
+      link: "https://dp-sports-world.netlify.app/"
     },
   ]
 
