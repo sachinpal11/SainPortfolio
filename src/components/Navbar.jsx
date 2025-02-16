@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import logo from '../assets/images/logo.webp'
+import logo from '../assets/images/SachinDp.webp'
 function Navbar() {
 
   const [isopen, setOpen] = useState(false);

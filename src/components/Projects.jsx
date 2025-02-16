@@ -9,7 +9,7 @@ function Projects() {
       title: "Sain Portfolio",
       src: Sample1,
       alt: "This image contains sain Portfolio",
-      paragragh: "Sain Porfolio is a sample Website project which is created with HTML, Tailwind CSS , CSS and Javacript",
+      paragragh: "Sain Porfolio is a sample Website project which is created with HTML, Tailwind CSS , CSS and Javacript.",
       link: "https://lucky-banoffee-4e4a8c.netlify.app/"
     }
   ]
